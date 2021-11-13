@@ -218,5 +218,5 @@ delay_access 1 allow SILUFFY IMAGES
 delay_parameters 1 1250/1250
 ```
 
-13. Sedangkan, Zoro yang sangat bersemangat untuk mencari harta karun, sehingga kecepatan kapal Zoro tidak dibatasi ketika sudah mendapatkan harta yang diinginkannya 
+## 13. Sedangkan, Zoro yang sangat bersemangat untuk mencari harta karun, sehingga kecepatan kapal Zoro tidak dibatasi ketika sudah mendapatkan harta yang diinginkannya 
 Tidak ada pengaturan apapun karena yang dibatasi hanya user luffy
